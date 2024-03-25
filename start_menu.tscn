@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://cpkvtgebmwla3"]
+
+[node name="StartMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_right = 571.0
+offset_bottom = 23.0
+text = "Texto Foda"
